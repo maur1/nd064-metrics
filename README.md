@@ -104,7 +104,7 @@ your SLIs and SLOs. Include a screenshot of the dashboard here, and write a text
 are represented in the dashboard.  
 ![slislo.png](answer-img/slislo.png)
 
-`4xx & 5xx status responses`: count of 4xx and 5xx responses from backend and frontend services
-`200 status responses`: count of 200 responses from backend and frontend services 
-`CPU seconds total`: CPU usage of the backend application
-`Memory usage bytes`: Memory usage of the backend applications
+* `4xx & 5xx status responses`: count of 4xx and 5xx responses from backend and frontend services
+* ` 200 status responses`: count of 200 responses from backend and frontend services 
+* `CPU seconds total`: CPU usage of the backend application
+* `Memory usage bytes`: Memory usage of the backend applications
