@@ -6,3 +6,5 @@ curl -sfL https://get.k3s.io | INSTALL_K3S_VERSION=v1.19.5+k3s1 K3S_KUBECONFIG_M
 echo "**** End installing k3s"
 
 #kubectl proxy --address='0.0.0.0' /dev/null &
+# -- multipass:
+# curl -sfL https://get.k3s.io | sh -s - --write-kubeconfig-mode 644
