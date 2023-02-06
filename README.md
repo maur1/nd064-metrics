@@ -1,8 +1,7 @@
 **Note:** For the screenshots, you can store all of your answer images in the `answer-img` directory.
 
 ## Verify the monitoring installation
--- DONE --
-![image](answer-img/pods_n_scvs.png)
+![image](answer-img/podsnservices2.png)
 ## Setup the Jaeger and Prometheus source
 ![image](answer-img/login.png)
 ## Create a Basic Dashboard
@@ -38,8 +37,7 @@ made to the service over a period of time.
 Create a dashboard to measure the uptime of the frontend and backend services.
 We will also want to measure 40x and 50x errors.
 Create a dashboard that show these values over a 24 hour period and take a screenshot.
-![image](answer-img/errors.png)
-
+![errors](answer-img/4xx5xx.png)
 
 ## Tracing our Flask App
 We will create a Jaeger span to measure the processes on the backend.
